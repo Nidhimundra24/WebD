@@ -1,0 +1,37 @@
+RESPONSIVE website - media queries
+FLEXBOX:
+GRID:
+
+
+CSS Breakpoints:
+
+Mobile devices
+ -320px-480 px
+
+Ipads,Tablets
+-481px-768px
+
+Small screens,Laptops
+-769px- 1024px
+
+Desktops,Large screens
+-1025px-1200px
+
+Extra large screens,TV
+-1201px,and more
+
+
+
+Responsive website -media queries
+<!--whenever you are writing media query the viewport is important -->
+
+FLEXBOX:
+-by default flex direction is row 
+row reverse-take to right side of screen in reverse
+column reverse-take to bottom in reverse form
+
+-justify content: sets main axis 
+       -for row (horizontal axis)
+       -for column (vertical axis )
+-align items works on cross axis in this case
+      cross axis is vertical       
