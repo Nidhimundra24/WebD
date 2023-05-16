@@ -28,23 +28,29 @@ body
 
 .green{
     background-color: green;
-    width: 300px;;
+    width: 300px;
+
 }
 .brown{
     background-color: brown;
+    order:4;
 }
 .blue{
     background-color: blue;
     height: 200px;
+    flex-grow:6; /* by default flex grow value is 1 */
 }
 .orange{
     background-color: orange;
+    order:1;
 }
 .magenta{
     background-color: magenta;
+    order:3;
 }
 .cyan{
     background-color: cyan;
+    flex-grow:3;
 }
 .black{ 
     background-color: black;

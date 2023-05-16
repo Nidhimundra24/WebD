@@ -35,3 +35,38 @@ column reverse-take to bottom in reverse form
        -for column (vertical axis )
 -align items works on cross axis in this case
       cross axis is vertical       
+
+
+-by default order of every block is 0   
+-we use order in css side without change in html to change the block order
+-it is set acc.to their non zero given value (descending order)
+
+
+
+DAY 14:
+CSS ANIMATIONS
+what we need
+-declare the ANIMATIONS-declare its keyframes
+
+
+.element{
+      animation:pulse 5s infinite
+}
+@keyframes pulse{
+      0%{
+            background-color:#001F3F
+      } 
+      100%{
+            background-color:#FF4136
+      }
+}
+
+
+BOOTSTRAP:
+if you defines 12 column layout 
+
+
+
+
+DAY-15
+normal website -cut copy paste!
